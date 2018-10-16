@@ -5,5 +5,4 @@
 * Eksempler OSV...
 
 Tasks:
-- [X] innlevering Oblig 3
-- [ ] reinnlevering Oblig 3
+- [ ] Oblig 3
