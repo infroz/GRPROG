@@ -6,4 +6,4 @@
 
 Tasks:
 - [X] innlevering Oblig 3
-- [] reinnlevering Oblig 3
+- [ ] reinnlevering Oblig 3
